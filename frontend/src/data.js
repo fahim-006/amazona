@@ -23,7 +23,7 @@ const data = {
             price: '150',
             brand: 'Nike',
             rating: '4.0',
-            countInStock: 0,
+            countInStock: 5,
             numReviews: '12',
             description: 'high quality Pants',
         },
